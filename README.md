@@ -13,7 +13,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <h2>Контакты:</h2>
-<a href="https://t.me/Alexrossomachin"><img src="https://www.flaticon.com/ru/free-icon/telegram_2111646</a>
+
+[Telegram](https://t.me/Alexrossomachin)
 
  
 
