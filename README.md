@@ -1,4 +1,7 @@
-### Hi there 👋
+
+
+<h1 align="center"> Привет, меня зовут Алексей! Я Python-разработчик
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <!--
 **alex-rossomakhin/alex-rossomakhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
